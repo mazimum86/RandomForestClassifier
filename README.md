@@ -27,10 +27,10 @@
 <h2>Installation</h2>
 <ol>
     <li>Clone the repository:
-        <pre><code>git clone https://github.com/mazimum86/RandomForest.git</code></pre>
+        <pre><code>git clone https://github.com/mazimum86/RandomForestClassifier.git</code></pre>
     </li>
     <li>Navigate to the project directory:
-        <pre><code>cd RandomForest</code></pre>
+        <pre><code>cd RandomForestClassifier</code></pre>
     </li>
     <li>Install the required dependencies:
         <pre><code>pip install -r requirements.txt</code></pre>
